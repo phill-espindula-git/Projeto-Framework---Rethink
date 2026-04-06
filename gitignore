@@ -2,6 +2,9 @@
 data/raw/
 delta/
 output/
+*.csv
+*.parquet
+*.json
 
 # ─── Python ───────────────────────────────────────────────────────────────────
 __pycache__/
